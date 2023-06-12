@@ -1,0 +1,4 @@
+streamlit
+streamlit-extras
+git+https://github.com/gokhangerdan/st-chat
+openai
